@@ -1,6 +1,6 @@
-[![Build Status](https://travis-ci.com/globalbioticinteractions/bpbm-ent.svg)](https://travis-ci.com/globalbioticinteractions/bpbm-ent) [![GloBI](http://api.globalbioticinteractions.org/interaction.svg?accordingTo=globi:globalbioticinteractions/bpbm-ent)](http://globalbioticinteractions.org/?accordingTo=globi:globalbioticinteractions/bpbm-ent) 
+[![Build Status](https://travis-ci.com/globalbioticinteractions/ansp-para.svg)](https://travis-ci.com/globalbioticinteractions/ansp-para) [![GloBI](http://api.globalbioticinteractions.org/interaction.svg?accordingTo=globi:globalbioticinteractions/ansp-para)](http://globalbioticinteractions.org/?accordingTo=globi:globalbioticinteractions/ansp-para) 
 
 
-Configuration to help make the records in the J. Linsley Gressitt Center for Research in Entomology, Bernice Pauahi Bishop Museum available through Global Biotic Interactions (GloBI, https://globalbioticinteractions.org). 
+Configuration to help make the records in the The Academy of Natural Sciences of Drexel University data for Terrestrial Parasite Tracker available through Global Biotic Interactions (GloBI, https://globalbioticinteractions.org). 
 
-Also see [https://www.bishopmuseum.org](https://www.bishopmuseum.org) and [https://scan-bugs.org/portal/collections/misc/collprofiles.php?collid=175](https://scan-bugs.org/portal/collections/misc/collprofiles.php?collid=175).
+Also see [https://scan-bugs.org/portal/collections/misc/collprofiles.php?collid=2365](https://scan-bugs.org/portal/collections/misc/collprofiles.php?collid=236).
